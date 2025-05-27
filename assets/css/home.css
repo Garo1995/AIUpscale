@@ -205,7 +205,7 @@ p{
 }
 .capabilities-photo img{
     border-radius: 20px;
-
+    width: 100%;
 }
 .capabilities-box{
     border: 1px solid #00000005;
@@ -251,7 +251,7 @@ p{
 
 
 .processing-photo{
-    margin: 30px auto 0;
+    margin: 50px auto 0;
     max-width: 1100px;
     width: 100%;
 }
