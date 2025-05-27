@@ -13,7 +13,7 @@ header{
     padding: 12px 12px 12px 32px;
     border-radius: 15px;
     border: 1px solid #00000005;
-    background: #0000000A;
+    background: #F5F5F5;
     backdrop-filter: blur(4px);
     box-shadow: 0px 5px 20px 0px #00000005;
 }
@@ -98,7 +98,7 @@ header{
     z-index: 11;
     transition: 0.3s;
     backdrop-filter: blur(8px);
-    background: #F5F5F5;
+    background: rgba(0,0,0,0.2);
 
 
 }
@@ -174,7 +174,7 @@ header .btn{
         width: 100%;
         margin: 0 auto;
         gap: 24px;
-        background: #0000000A;
+        background: #F5F5F5;
     }
 
     .nav-menu ul {
